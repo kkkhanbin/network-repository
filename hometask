@@ -1,0 +1,5 @@
+Локальная master и удаленная demo отличаются только файлом README,
+а именно в первой строке, в master был добавлен текст " with nice buttons
+on his jacket (buttons branch)"
+
+git diff master origin/demo
